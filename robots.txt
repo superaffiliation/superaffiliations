@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.superaffiliations.com/sitemap.xml
+Sitemap: https://superaffiliations-site.netlify.app/sitemap.xml
